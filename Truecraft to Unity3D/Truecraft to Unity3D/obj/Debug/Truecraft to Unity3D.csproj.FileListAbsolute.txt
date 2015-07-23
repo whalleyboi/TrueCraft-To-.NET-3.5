@@ -1,0 +1,12 @@
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\bin\Debug\Truecraft to Unity3D.exe.config
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\bin\Debug\Truecraft to Unity3D.exe
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\bin\Debug\Truecraft to Unity3D.pdb
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft to Unity3D.csprojResolveAssemblyReference.cache
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft_to_Unity3D.Form1.resources
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft_to_Unity3D.Properties.Resources.resources
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft to Unity3D.csproj.GenerateResource.Cache
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft to Unity3D.exe
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft to Unity3D.pdb
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft_to_Unity3D.TabPages.TrueCraftServer.resources
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft_to_Unity3D.TabPages.TrueCraftCore.resources
+f:\users\trevor\documents\visual studio 2015\Projects\Truecraft to Unity3D\Truecraft to Unity3D\obj\Debug\Truecraft_to_Unity3D.TabPages.TrueCraftAPI.resources
